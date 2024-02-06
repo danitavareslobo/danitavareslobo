@@ -12,7 +12,7 @@ Estou comprometida em enfrentar desafios técnicos, aprender continuamente e con
 > <br>
 > 👩‍💻 Estou cursando o 4º semestre do bacharelado em Sistemas de Informação. 
 > <br>
-> ❤🥰 Fato sobre mim: tenho uma família grande e divertida, 2 cachorros fofos e bagunceiros. E tenho 3 mini coelhos, que são meus amores.
+> ❤🥰 Fato sobre mim: tenho uma família grande e divertida, 3 cachorros fofos e bagunceiros. E tenho 3 mini coelhos, que são meus amores.
 
 
 
@@ -47,12 +47,13 @@ Estou comprometida em enfrentar desafios técnicos, aprender continuamente e con
 
 
 <br>
-<br>
-<br>
 
 <div align="center">
   <a href="https://github.com/danitavareslobo">
-  <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=danitavareslobo&show_icons=true&theme=vision-friendly-dark&inclue_all_commit=true" /> -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=danitavareslobo&show_icons=true&theme=vision-friendly-dark&inclue_all_commit=true" />
+  
+<br>
+
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danitavareslobo&layout-default&langs_count=3&theme=vision-friendly-dark" />
   </a>
 </div>
