@@ -1,18 +1,18 @@
-## Hey! I'm Dani Tavares Lobo 👋
+## Oi! Eu sou a Dani Tavares Lobo 👋
 
 <br>
 
-I'm a .NET developer passionate about creating innovative solutions. My skills cover development with C#, ASP.NET, .NET Core, and building RESTful APIs. I have experience with SQL Server for database management. Additionally, I'm familiar with Git/GitHub for version control and Jira for project management. On the front-end side, I mastered HTML, CSS, and JavaScript, with experience using Angular 15.
+Sou uma desenvolvedora .NET apaixonada por criar soluções inovadoras. Minhas habilidades abrangem o desenvolvimento com C#, ASP.NET, .NET Core e a construção de APIs RESTful. Tenho experiência com SQL Server para gerenciamento de bancos de dados. Além disso, estou familiarizada com Git/GitHub para controle de versão e Jira para gestão de projetos. No lado front-end, domino HTML, CSS e JavaScript, com experiência na utilização do Angular 15.
 
-In my workflow, I use Visual Studio for development and implement authentication with Identity to ensure the security of the applications I build. I also have experience in applying agile methodologies, such as Scrum, to deliver projects efficiently.
+No meu fluxo de trabalho, utilizo o Visual Studio para desenvolvimento e implemento autenticação com Identity para garantir a segurança dos aplicativos que construo. Também tenho experiência na aplicação de metodologias ágeis, como o Scrum, para entregar projetos com eficiência.
 
-I am committed to facing technical challenges, continually learning, and contributing to the team's success.
+Estou comprometida em enfrentar desafios técnicos, aprender continuamente e contribuir para o sucesso da equipe.
 
-✨ I am currently working with development in ASP .NET Core MVC. 
-<br>
-👩‍💻 I am studying the 4th semester of a Bachelor's degree in Information Systems.
-<br>
-❤🥰 Fact about me: I have a big, fun family, two cute and messy dogs. And I have three mini rabbits, which are my loves. 
+> ✨ Atualmente estou trabalhando com desenvolvimento em ASP .NET Core MVC.
+> <br>
+> 👩‍💻 Estou cursando o 4º semestre do bacharelado em Sistemas de Informação. 
+> <br>
+> ❤🥰 Fato sobre mim: tenho uma família grande e divertida, 2 cachorros fofos e bagunceiros. E tenho 3 mini coelhos, que são meus amores.
 
 
 
@@ -41,6 +41,12 @@ I am committed to facing technical challenges, continually learning, and contrib
 </div>
 
 <br>
+
+
+## 🌎 Joinville, Santa Catarina, Brasil
+
+
+<br>
 <br>
 <br>
 
@@ -53,16 +59,4 @@ I am committed to facing technical challenges, continually learning, and contrib
 <br>
 
 
-## 🌎 Joinville, Santa Catarina, Brasil
 
-Sou uma desenvolvedora .NET apaixonada por criar soluções inovadoras. Minhas habilidades abrangem o desenvolvimento com C#, ASP.NET, .NET Core e a construção de APIs RESTful. Tenho experiência com SQL Server para gerenciamento de bancos de dados. Além disso, estou familiarizada com Git/GitHub para controle de versão e Jira para gestão de projetos. No lado front-end, domino HTML, CSS e JavaScript, com experiência na utilização do Angular 15.
-
-No meu fluxo de trabalho, utilizo o Visual Studio para desenvolvimento e implemento autenticação com Identity para garantir a segurança dos aplicativos que construo. Também tenho experiência na aplicação de metodologias ágeis, como o Scrum, para entregar projetos com eficiência.
-
-Estou comprometida em enfrentar desafios técnicos, aprender continuamente e contribuir para o sucesso da equipe.
-
-✨ Atualmente estou trabalhando com desenvolvimento em ASP .NET Core MVC.
-<br>
-👩‍💻 Estou cursando o 4º semestre do bacharelado em Sistemas de Informação. 
-<br>
-❤🥰 Fato sobre mim: tenho uma família grande e divertida, 2 cachorros fofos e bagunceiros. E tenho 3 mini coelhos, que são meus amores.
