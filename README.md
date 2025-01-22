@@ -8,9 +8,9 @@ No meu fluxo de trabalho, utilizo o Visual Studio para desenvolvimento e impleme
 
 Estou comprometida em enfrentar desafios técnicos, aprender continuamente e contribuir para o sucesso da equipe.
 
-> ✨ Atualmente estou trabalhando com desenvolvimento em ASP .NET Core MVC.
+> ✨ Atualmente estou trabalhando com desenvolvimento em C# .NET, Blazor e React.
 > <br>
-> 👩‍💻 Estou cursando o 4º semestre do bacharelado em Sistemas de Informação. 
+> 👩‍💻 Estou cursando o último semestre do bacharelado em Sistemas de Informação. 
 > <br>
 > ❤🥰 Fato sobre mim: tenho uma família grande e divertida, 3 cachorros fofos e bagunceiros. E tenho 3 mini coelhos, que são meus amores.
 
