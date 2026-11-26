@@ -42,18 +42,3 @@ Estou comprometida em enfrentar desafios técnicos, aprender continuamente e con
 <br>
 
 
-## 🌎 Joinville, Santa Catarina, Brasil
-
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/danitavareslobo">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=danitavareslobo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" />
-  
-<br>
-
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danitavareslobo&layout=default&langs_count=3&theme=vision-friendly-dark" />
-  </a>
-</div>
-<br>
