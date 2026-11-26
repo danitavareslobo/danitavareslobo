@@ -10,7 +10,7 @@ Estou comprometida em enfrentar desafios técnicos, aprender continuamente e con
 
 > ✨ Atualmente sou Senior Software Engineer na Polícia Militar do Estado de Mato Grosso, no front-end de sistemas do Portal Policial com React e TypeScript.
 > <br>
-> 🎓 Bacharel em Sistemas de Informação (formada em julho de 2026).
+> 🎓 Bacharel em Sistemas de Informação (formada em julho de 2025).
 > <br>
 > ❤🥰 Fato sobre mim: tenho uma família grande e divertida, 3 cachorros fofos e bagunceiros. E tenho 3 mini coelhos, que são meus amores.
 
